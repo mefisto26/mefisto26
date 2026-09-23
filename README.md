@@ -33,7 +33,7 @@
     </td>
     <td width="40%" align="center" valign="middle">
       <!-- Elemento visual temático: GIF de consola/hacker en tono oscuro -->
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2y/giphy.gif" width="100%" style="border-radius:6px;" alt="Coding Animation" />
+      <img src="assets/readme_image.jpg" width="100%" style="border-radius:6px;" alt="Coding Animation" />
     </td>
   </tr>
 </table>
